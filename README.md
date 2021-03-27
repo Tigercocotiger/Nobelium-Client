@@ -1,6 +1,6 @@
 ![alt text](https://github.com/Tigercocotiger/Nobelium-Client/blob/main/src/main/resources/Images/client/Nobelium.png?raw=true)
 # Nobélium coté client 
-*Vous pouvez aussi aller voir le côté Serveur [GitHub](https://github.com/Tigercocotiger/Nobelium-Serveur)*
+*Vous pouvez aussi aller voir [le côté Serveur](https://github.com/Tigercocotiger/Nobelium-Serveur)*
 
 installer le projet sous Eclipse : 
 
